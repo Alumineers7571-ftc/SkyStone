@@ -1,3 +1,6 @@
+# ALL INTERESTING CODE IS FOUND AT: https://github.com/Alumineers7571-ftc/SkyStone/tree/master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode
+
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the SKYSTONE (2019-2020) competition season.  
